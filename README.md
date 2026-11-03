@@ -4,7 +4,6 @@ I build practical systems where financial research, data engineering, AI automat
 
 ## Featured work
 
-- [KeelTrader](https://github.com/fretelli/KeelTrader) — an open research operating system for market data, valuation, portfolio context, and agent-assisted analysis.
 - [houdini_rain_system](https://github.com/fretelli/houdini_rain_system) — a procedural rain system and visual-effects study built with Houdini.
 
 ## What I work on
